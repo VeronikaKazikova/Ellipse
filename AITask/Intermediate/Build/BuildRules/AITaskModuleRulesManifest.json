@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\repo\\veronika.kazikova\\AI\\AITask\\Source\\AITask\\AITask.Build.cs",
+		"C:\\repo\\veronika.kazikova\\AI\\AITask\\Source\\AITask.Target.cs",
+		"C:\\repo\\veronika.kazikova\\AI\\AITask\\Source\\AITaskEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}

@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\repo\\veronika.kazikova\\ai\\aitask\\source\\aitask\\witch_playercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\aitaskeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\unrealeditor\\development\\aitask\\definitions.aitask.h",
+            "c:\\repo\\veronika.kazikova\\ai\\aitask\\source\\aitask\\witch_playercontroller.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\unrealeditor\\inc\\aitask\\uht\\witch_playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

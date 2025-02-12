@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AITask",
+			"Path": "C:\\repo\\veronika.kazikova\\AI\\AITask\\Source\\AITask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AITaskEditor",
+			"Path": "C:\\repo\\veronika.kazikova\\AI\\AITask\\Source\\AITaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

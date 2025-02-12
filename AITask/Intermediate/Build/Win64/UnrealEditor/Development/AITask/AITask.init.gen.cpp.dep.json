@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\unrealeditor\\inc\\aitask\\uht\\aitask.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\aitaskeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\repo\\veronika.kazikova\\ai\\aitask\\intermediate\\build\\win64\\unrealeditor\\development\\aitask\\definitions.aitask.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
